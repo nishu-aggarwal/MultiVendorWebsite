@@ -1,0 +1,47 @@
+------------------------------------------------------------
+  Plugin list generated with BackWPup version: 3.4.5
+  http://backwpup.com
+  Blog Name: Saral Aajivika
+  Blog URL: http://localhost/saralajivika/wordpress
+  Generated on: 2018-04-12 22:50.55
+------------------------------------------------------------
+
+
+All plugin information:
+------------------------------
+Akismet Anti-Spam (v.4.0.2) from Automattic
+	https://akismet.com/
+All-in-One WP Migration (v.6.67) from ServMask
+	https://servmask.com/
+BackWPup (v.3.4.5) from Inpsyde GmbH
+	http://backwpup.com
+Dokan (v.2.7.8) from weDevs
+	https://wordpress.org/plugins/dokan-lite/
+Hello Dolly (v.1.6) from Matt Mullenweg
+	http://wordpress.org/plugins/hello-dolly/
+Members (v.2.0.2) from Justin Tadlock
+	https://themehybrid.com/plugins/members
+Profile Builder (v.2.7.9) from Cozmoslabs, Madalin Ungureanu, Antohe Cristian, Barina Gabriel, Mihai Iova
+	https://www.cozmoslabs.com/wordpress-profile-builder/
+ProfilePress Lite (v.1.5.2) from ProfilePress Team
+	https://profilepress.net
+Shortcake (Shortcode UI) (v.0.7.3) from Fusion Engineering and community
+	
+WooCommerce (v.3.3.5) from Automattic
+	https://woocommerce.com/
+
+Active plugins:
+------------------------------
+All-in-One WP Migration
+BackWPup
+Dokan
+Members
+ProfilePress Lite
+Shortcake (Shortcode UI)
+WooCommerce
+
+Inactive plugins:
+------------------------------
+Akismet Anti-Spam
+Hello Dolly
+Profile Builder
